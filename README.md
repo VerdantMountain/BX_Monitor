@@ -2,7 +2,7 @@
   <img src="https://github.com/qingshan2048/img/blob/main/bice.png" width="260">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Full Name-KL MinerSystem-brightgreen" alt="Full Name"/>
+  <img src="https://img.shields.io/badge?style=plastic&logo=appveyor/Full Name-KL MinerSystem-brightgreen" alt="Full Name"/>
   <img src='https://img.shields.io/badge/Operating System-Winodws 7/8/9/10/11-blue' alt='Operating System'/>
   <img src="https://img.shields.io/badge/Miner Core-NBminer 42.2-blue" alt="Miner Core"/>
 </p>
