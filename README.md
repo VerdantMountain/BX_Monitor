@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/qingshan2048/img/blob/main/bice.png" width="260">
+  <img src="https://github.com/qingshan2048/img/blob/main/bice.png" width="240">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Full Name-BC TradeSystem-brightgreen" alt="Full Name"/>
