@@ -20,7 +20,7 @@
 ## 💡 软件展示
 
 <p align="center">
-<img src="https://github.com/qingshan2048/img/blob/main/zhanshi.png" width="640">
+<img src="https://github.com/qingshan2048/img/blob/main/bice_zhanshi.png" width="640">
 </p>
 
 ## 📝 文件下载
