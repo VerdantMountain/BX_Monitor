@@ -56,6 +56,7 @@
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
 2022-11-?? - v1.00.z（即将发布）
+2022.11.10 找到了稳定的JSON数据处理方案
 2022.11.03 替换掉了不稳定的网络通信模块
 2022.10.20 完成的软件的LOGO最终设计方案
 2022.10.19 Yang第一次提出使用币策这个名字并决定采用币策作为软件的名字
