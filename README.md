@@ -66,7 +66,7 @@
 ## 🚑 疑难解决
 
 - 软件在使用VPN的系统上出现联网卡顿的问题：可能是由于VPN的防火墙阻止了网络连接请求，可以考虑使用香港服务器
-- 系统提示无法找到 VCRUNTIME140.DLL，MSVCP140.DLL，VCRUNTIME140_1.DLL 的解决方法：https://github.com/qingshan2048/resource/tree/main#%E5%B8%81%E7%AD%96%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E6%97%A0%E6%B3%95%E6%89%BE%E5%88%B0-vcruntime140dll-%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95
+- 系统提示无法找到 VCRUNTIME140.DLL，MSVCP140.DLL，VCRUNTIME140_1.DLL 的解决方法：https://github.com/qingshan2048/resource/tree/main#%E5%B8%81%E7%AD%96%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E6%97%A0%E6%B3%95%E6%89%BE%E5%88%B0-vcruntime140dllmsvcp140dllvcruntime140_1dll-%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95
 
 ## 🐛 相关资源 
 
