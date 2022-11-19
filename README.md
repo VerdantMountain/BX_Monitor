@@ -56,6 +56,8 @@
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
 2022-11-?? - v1.00.z（即将发布）
+
+2022.11.19 完成了火币的网络交易功能，币策采用脉冲交易模式
 2022.11.17 完成了UnixTimestamp时间戳模块
 2022.11.10 找到了稳定的JSON数据处理方案
 2022.11.03 替换掉了不稳定的网络通信模块
