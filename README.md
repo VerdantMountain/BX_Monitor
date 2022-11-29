@@ -56,6 +56,7 @@
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
 2023-00-00 - v1.00.z（即将发布）
+2022.11.28 基本完成了对冲交易的功能
 2022.11.26 修复了账户余额显示不稳定的问题，并可以自定义货币种类余额查询
 2022.11.23 修复了数组定义导致的内存增长
 2022.11.19 完成了火币的网络交易功能，币策采用脉冲交易模式
