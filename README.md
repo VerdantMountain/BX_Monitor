@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Full Name-BC TradeSystem-brightgreen?logo=Windows Terminal" alt="Full Name"/>
   <img src="https://img.shields.io/badge/Operating System-Winodws 7/8/9/10/11-success?logo=Windows" alt="Operating System"/>
-  <img src="https://img.shields.io/badge/Trade Style-Hedging Transaction-brightgreen?logo=Ethereum" alt="Miner Core"/>
+  <img src="https://img.shields.io/badge/Trade Style-Hedging Transaction-brightgreen?logo=Untangle" alt="Miner Core"/>
 </p>
 
 # 🔥 币策  `对冲交易系统`
