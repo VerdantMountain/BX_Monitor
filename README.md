@@ -56,7 +56,7 @@
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
 2023-00-00 - v1.00.b（即将发布）
-2022.12.00 
+2022.12.00 进一步解决了内存泄漏的问题
 2022.12.07 设计了交易强度（交易量），和交易手续费抵消算法，增加了任意交易功能
 2022.12.06 修复了由于网络延迟导致的软件崩溃，修复了交易信息面板的数据混乱问题
 2022.12.01 精准校正了UTC时钟，月初年初时间不错乱
