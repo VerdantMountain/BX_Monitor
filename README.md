@@ -56,6 +56,7 @@
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
 2023-00-00 - v1.00.b（即将发布）
+2022.12.00 增加交易量可根据交易深度数据动态调整的功能模块
 2022.12.00 进一步解决了内存泄漏的问题
 2022.12.12 引入了交易偏移量，根据火币交易所的规则变动调整了最小交易量（10USDT）
 2022.12.10 优化为先交易后显示，避免由于界面显示对交易线程造成阻塞
