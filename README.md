@@ -56,8 +56,9 @@
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
 2023-00-00 - v1.00.b（即将发布）
-2022.12.00 增加交易量可根据交易深度数据动态调整的功能模块
 2022.12.00 进一步解决了内存泄漏的问题
+2022.12.14 增加了四级阶梯交易模式，增加了保存日志的功能，完成了配比功能，增加了授权日期，完善了交易所模块的代码规范
+2022.12.13 (X)增加交易量可根据交易深度数据动态调整的功能模块
 2022.12.12 引入了交易偏移量，根据火币交易所的规则变动调整了最小交易量（10USDT）
 2022.12.10 优化为先交易后显示，避免由于界面显示对交易线程造成阻塞
 2022.12.10 (X)对币策交易数据处理采用多线程处理机制，避免造成交易相对行情的时空滞后
