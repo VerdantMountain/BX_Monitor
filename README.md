@@ -56,7 +56,7 @@
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
 2023-00-00 - v1.00.b（即将发布）
-2022.12.00 进一步解决了内存泄漏的问题
+2022.12.00 进一步解决了内存泄漏的问题，新增外汇网格交易
 2022.12.00 完成配比功能，规范交易所代码，实现网络访问交易信息并可一键清空
 2022.12.00 增加看门狗功能，网格交易，恢复价格模块内直接操控交易
 2022.12.23 增加抹茶的交易价格限制
