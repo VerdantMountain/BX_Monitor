@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Trade Style-Hedging Transaction-brightgreen?logo=Untangle" alt="Miner Core"/>
 </p>
 
-# 🔥 币策  `分析交易系统`
+# 🔥 币讯  `行情监控工具`
 
 - **适用场景**：通过实时新闻分析交易实现虚拟货币盈利
 - **图形界面**：操作界面干净整洁，清晰易懂，配置简洁方便
